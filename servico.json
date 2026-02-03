@@ -1,5 +1,72 @@
-{
-  "nome": "Troca de Tela",
-  "descricao": "Serviço de substituição de tela para smartphones",
-  "preco": 250.00
-}
+[
+  {
+    "nome": "Troca de Tela",
+    "descricao": "Substituição da tela do dispositivo",
+    "preco": 250.00
+  },
+  {
+    "nome": "Formatação de Sistema",
+    "descricao": "Reinstalação do sistema operacional com backup básico",
+    "preco": 150.00
+  },
+  {
+    "nome": "Manutenção Preventiva",
+    "descricao": "Limpeza interna, troca de pasta térmica e verificação geral",
+    "preco": 100.00
+  },
+  {
+    "nome": "Correção de Travamentos",
+    "descricao": "Análise e solução de lentidão e travamentos do sistema",
+    "preco": 120.00
+  },
+  {
+    "nome": "Remoção de Vírus e Malware",
+    "descricao": "Limpeza completa de vírus, spywares e softwares maliciosos",
+    "preco": 130.00
+  },
+  {
+    "nome": "Upgrade de Memória RAM",
+    "descricao": "Instalação ou substituição de memória RAM",
+    "preco": 80.00
+  },
+  {
+    "nome": "Troca de HD por SSD",
+    "descricao": "Substituição do HD por SSD para melhoria de desempenho",
+    "preco": 200.00
+  },
+  {
+    "nome": "Recuperação de Dados",
+    "descricao": "Tentativa de recuperação de arquivos apagados ou corrompidos",
+    "preco": 300.00
+  },
+  {
+    "nome": "Configuração de Rede",
+    "descricao": "Configuração de internet, Wi-Fi e compartilhamento de rede",
+    "preco": 90.00
+  },
+  {
+    "nome": "Instalação de Programas",
+    "descricao": "Instalação e configuração de softwares essenciais",
+    "preco": 70.00
+  },
+  {
+    "nome": "Atualização de Sistema",
+    "descricao": "Atualização do sistema operacional e drivers",
+    "preco": 60.00
+  },
+  {
+    "nome": "Troca de Teclado",
+    "descricao": "Substituição de teclado com defeito",
+    "preco": 180.00
+  },
+  {
+    "nome": "Troca de Bateria",
+    "descricao": "Substituição da bateria do notebook",
+    "preco": 220.00
+  },
+  {
+    "nome": "Diagnóstico Técnico",
+    "descricao": "Avaliação completa do equipamento para identificar problemas",
+    "preco": 50.00
+  }
+]
